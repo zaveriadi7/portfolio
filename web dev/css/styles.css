@@ -1,0 +1,29 @@
+
+/*tag selectors*/
+
+body {
+    background-color:#EAF6F6;
+}
+
+hr {
+
+    border-width: 5px;
+    width:5%;
+    border-style: none;
+    border-top-style: dotted;
+}
+h1,h2 {
+  color: #66BFBF
+}
+h3 {
+  text-align: center;
+  color:black;
+}
+/*classes selectors*/
+/*classes helps in specifying certain tags*/
+.Work{
+  color:#513252;
+}
+#one:hover{
+  background-color: black;
+}

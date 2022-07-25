@@ -1,0 +1,34 @@
+body{
+  margin: 0;
+  width: 100%;
+  height: 50%
+}
+h1{
+  margin-top: 0;
+  margin-bottom:0
+}
+p{
+  margin: 0;
+}
+.top-container{
+  background-color:#C8E3D4;
+
+}
+.middle-container{
+                  width: 200px;
+                  height: 200px;
+                  background-color:red;
+                  border: 20px solid;
+                  margin-left:  260px;
+                  border-color:black;
+}
+.bottom-container{
+                  width: 200px;
+                  height: 200px;
+                  background-color:yellow;
+                  border: 10px solid;
+                  margin-left: 500px;
+                  border-color: black;
+
+
+}
